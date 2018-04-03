@@ -1,3 +1,7 @@
+<h3 align="center">
+  <img src="assets/twitter_data_parser_icon_web.png" width="300">
+</h3>
+
 # Twitter Data Parser
 
 ## About
