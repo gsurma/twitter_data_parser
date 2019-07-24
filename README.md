@@ -22,3 +22,18 @@ Python (Tweepy based) scripts that allow downloading metadata and tweets for giv
 1. `python twitter_tweets_parser.py`
 2. For each user there will be created a folder named `{user}` with with `{user}_tweets.csv` file inside it.
 3. Script skips already downloaded tweets
+
+## Author
+
+**Greg (Grzegorz) Surma**
+
+[**PORTFOLIO**](https://gsurma.github.io)
+
+[**GITHUB**](https://github.com/gsurma)
+
+[**BLOG**](https://medium.com/@gsurma)
+
+<a href="https://www.paypal.com/paypalme2/grzegorzsurma115">
+  <img alt="Support via PayPal" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg"/>
+</a>
+
